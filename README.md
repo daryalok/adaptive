@@ -1,2 +1,2 @@
 # adaptive
-hommework week 7
+homework week 7
